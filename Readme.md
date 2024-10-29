@@ -74,3 +74,11 @@ Podemos comprobar que esta todo correcto con:
 ### 3. Accedemos a la dirección http://10.0.9.188:8080/ y comprobamos que la instalación de Prestashop se ha realizado correctamente.
 
 ![prestashop.png](images/prestashop.png)
+
+Conectamos la base de datos 
+
+![dbconect.png](images/dbconect.png)
+
+![listo.png](images/listo.png)
+
+![listo2.png](images/listo2.png)
