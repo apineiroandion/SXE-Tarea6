@@ -82,3 +82,15 @@ Conectamos la base de datos
 ![listo.png](images/listo.png)
 
 ![listo2.png](images/listo2.png)
+
+Para finalizar, vamos a solucionar el error que nos da cuando intentamos entrar como admin:
+
+![erroradmin.png](images/erroradmin.png)
+
+Para esto solo tenemos que seguir los pasos que no indica el mensaje, que es borrar los ficheros que no indican, y movier el contenido a un directorio con el nombre dle nuevo admin, que en este caso le vamos a llamr adminTienda:
+
+![solucionar.png](images/solucionar.png)
+
+Finalmente, ya podemos acceder al panel de control del administrador.
+
+![solucion.png](images/solucion.png)
